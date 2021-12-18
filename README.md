@@ -4,7 +4,7 @@
 - 📫 How to reach me eric.isensee11 on gmail dot com
 
 Todo:
--Jquery(halfway through)
+CSS-Practice and deeper understanding
 -vue.js
 -PHP
 -TypeScript
