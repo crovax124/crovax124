@@ -35,7 +35,7 @@
 <br />
           
 <h3 align="center">Tools:</h3>
-          <br />
+<br />
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -50,7 +50,8 @@
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/2101px-Adobe_Media_Encoder_Icon.svg.png" alt="media Encoder" width="40" height="40"/> </a>
 <a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/10/cinema-4d-logo.png" alt="Cinema4D" width="40" height="40"/> </a>        
-<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/768px-OBS.svg.png" alt="OBS" width="40" height="40"/> </a>  
+<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/768px-OBS.svg.png" alt="OBS" width="40" height="40"/> </a>
+<a href="https://resolume.com/" target="_blank" rel="noreferrer"> <img src="https://www.resolume.com/gfx/arena7icon.svg" alt="Resolume Arena" width="40" height="40"/> </a>
           
 <p align="center">
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
