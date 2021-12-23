@@ -46,7 +46,7 @@
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/2101px-Adobe_Media_Encoder_Icon.svg.png" alt="media Encoder" width="40" height="40"/> </a>
 <a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/10/cinema-4d-logo.png" alt="Cinema4D" width="40" height="40"/> </a>        
-<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.pikpng.com/pngl/m/71-711327_obs-studio-tomoe-symbol-clipart.png" alt="OBS" width="40" height="40"/> </a>  
+<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/768px-OBS.svg.png" alt="OBS" width="40" height="40"/> </a>  
           
 <p align="center">
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
