@@ -4,7 +4,7 @@
 <h3 align="left">I have a passion for learning everyday and sharing my knowledge with others in a way that's as public as possible. So follow along here and on <a href="https://twitter.com/vaxcro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaxcro" height="30" width="40" /></a>.</h3>
 <br />
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Dart, Flutter, HTML, CSS, Javascript** 
 
 - 📫 How to reach me **eric.isensee11@gmail.com**
           
