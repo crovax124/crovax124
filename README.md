@@ -6,7 +6,7 @@
 
 - Currently working as a Fulltime Flutter dev in Car Industry
 
-- 🌱 I’m currently learning in my spare time **Touchdesigner and Python** 
+- 🌱 I’m currently learning in my spare time **Rust and C++** 
 
 - 📫 How to reach me **eric.isensee11@gmail.com**
           
