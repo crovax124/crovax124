@@ -68,10 +68,10 @@
 <p align="center">
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
 </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="studio code" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="studio code" width="60" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="studio" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="IntelliJ" width="40" height="40"/> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="AndroidStudio" width="60" height="40"/> </a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="AndroidStudio" width="80" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1200px-Eclipse-SVG.svg.png" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://quicktype.io/" target="_blank" rel="noreferrer"> <img src="https://quicktype.io/images/logo-small-dark.svg" alt="quicktype" width="40" height="40"/> </a>
 <a href="https://codemagic.io/start/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/330188/codemagic.svg" alt="codemagic" width="40" height="40"/>
