@@ -6,7 +6,7 @@
 
 - Currently working as a Fulltime Flutter dev in Car Industry
 
-- 🌱 I’m currently learning in my spare time **Rust and C++** 
+- 🌱 I’m currently learning in my spare time **Rust and Tensorflow** 
 
 - 📫 How to reach me **eric.isensee11@gmail.com**
           
@@ -18,6 +18,7 @@
 <p align="center"> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="hhttps://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="flutter" width="80" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="dart" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="dart" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
