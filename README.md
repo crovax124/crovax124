@@ -52,7 +52,7 @@
 <br />
 <p align="center">
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="40" height="40"/> </a>   
-<a href="https://fastlane.tools/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/32/2/fastlane-logo-png_seeklogo-323873.png" alt="Fastlane" width="40" height="40"/> </a>            
+<a href="https://fastlane.tools/" target="_blank" rel="noreferrer"> <img src="https://fastlane.tools/assets/images/fastlane-logo-lockup.png" alt="Fastlane" width="40" height="40"/> </a>            
 <a href="https://derivative.ca/" target="_blank" rel="noreferrer"> <img src="https://derivative.ca/sites/default/files/styles/project_teaser_small/public/field/image/derivativeiconinvert_1.png" alt="Touchdesigner" width="40" height="40"/> </a>   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
