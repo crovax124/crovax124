@@ -63,8 +63,8 @@
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/2101px-Adobe_Media_Encoder_Icon.svg.png" alt="media Encoder" width="40" height="40"/> </a>
 <a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://artlantis.com/wp-content/uploads/sites/133/2018/11/cinema4d.png" alt="Cinema4D" width="40" height="40"/> </a>        
-<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/768px-OBS.svg.png" alt="OBS" width="40" height="40"/> </a>
-<a href="https://resolume.com/" target="_blank" rel="noreferrer"> <img src="https://www.resolume.com/gfx/arena7icon.svg" alt="Resolume Arena" width="40" height="40"/> </a>
+<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1024px-OBS_Studio_Logo.svg.png" alt="OBS" width="40" height="40"/> </a>
+<a href="https://resolume.com/" target="_blank" rel="noreferrer"> <img src="https://www.resolume.com/images/press/Logos/Arena-Logo.svg" alt="Resolume Arena" width="40" height="40"/> </a>
           
 <p align="center">
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
@@ -77,7 +77,7 @@
 <a href="https://quicktype.io/" target="_blank" rel="noreferrer"> <img src="https://quicktype.io/images/logo-small-dark.svg" alt="quicktype" width="40" height="40"/> </a>
 <a href="https://codemagic.io/start/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/330188/codemagic.svg" alt="codemagic" width="40" height="40"/>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" alt="mockito" width="80" height="40"/> </a>
-<a href="https://fvm.app/" target="_blank" rel="noreferrer"> <img src="https://fvm.app/img/logo.svg" alt="fvm" width="40" height="40"/> </a>          
+<a href="https://fvm.app/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*OVio2KkFrS_ziifUM2iAnw.png" alt="fvm" width="40" height="40"/> </a>          
           
 
 </p>
