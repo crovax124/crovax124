@@ -21,7 +21,7 @@
 <a href="hhttps://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="rust" width="80" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby" width="80" height="40"/> </a>  
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="dart" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="dart" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/31/1/swift-logo-png_seeklogo-316816.png" alt="swift" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="angular" width="40" height="40"/> </a>
@@ -62,7 +62,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/2101px-Adobe_Media_Encoder_Icon.svg.png" alt="media Encoder" width="40" height="40"/> </a>
-<a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://artlantis.com/wp-content/uploads/sites/133/2018/11/cinema4d.png" alt="Cinema4D" width="40" height="40"/> </a>        
+<a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo-1024x640.png" alt="Cinema4D" width="40" height="40"/> </a>        
 <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1024px-OBS_Studio_Logo.svg.png" alt="OBS" width="40" height="40"/> </a>
 <a href="https://resolume.com/" target="_blank" rel="noreferrer"> <img src="https://www.resolume.com/images/press/Logos/Arena-Logo.svg" alt="Resolume Arena" width="40" height="40"/> </a>
           
