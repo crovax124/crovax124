@@ -4,7 +4,7 @@
 <h3 align="left">I have a passion for learning everyday and sharing my knowledge with others in a way that's as public as possible. So follow along here and on <a href="https//ericisensee.de" target="blank">my portfolio.</h3>
 <br />
 
-- Currently working as a Fulltime Flutter dev in green energy sector
+- Currently working as a fullstack mobile dev in green energy sector
 
 - 🌱 I’m currently learning in my spare time **Rust and C#** 
 
@@ -21,7 +21,7 @@
 <a href="hhttps://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.png" alt="rust" width="80" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby" width="80" height="40"/> </a>  
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="dart" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-1024.png" alt="swift" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="dart" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="angular" width="40" height="40"/> </a>
@@ -36,7 +36,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="undefined" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/https://miro.medium.com/v2/resize:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
          
 
@@ -62,6 +62,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/2101px-Adobe_Media_Encoder_Icon.svg.png" alt="media Encoder" width="40" height="40"/> </a>
+<a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://artlantis.com/wp-content/uploads/sites/133/2018/11/cinema4d.png" alt="Cinema4D" width="40" height="40"/> </a>        
+<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/768px-OBS.svg.png" alt="OBS" width="40" height="40"/> </a>
 <a href="https://resolume.com/" target="_blank" rel="noreferrer"> <img src="https://www.resolume.com/gfx/arena7icon.svg" alt="Resolume Arena" width="40" height="40"/> </a>
           
 <p align="center">
@@ -69,6 +71,7 @@
 </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="studio code" width="60" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="studio" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="IntelliJ" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="AndroidStudio" width="80" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1200px-Eclipse-SVG.svg.png" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://quicktype.io/" target="_blank" rel="noreferrer"> <img src="https://quicktype.io/images/logo-small-dark.svg" alt="quicktype" width="40" height="40"/> </a>
