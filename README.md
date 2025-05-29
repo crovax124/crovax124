@@ -62,8 +62,6 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/2101px-Adobe_Media_Encoder_Icon.svg.png" alt="media Encoder" width="40" height="40"/> </a>
-<a href="https://www.maxon.net/de/" target="_blank" rel="noreferrer"> <img src="https://artlantis.com/wp-content/uploads/sites/133/2018/11/cinema4d.png" alt="Cinema4D" width="40" height="40"/> </a>        
-<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/768px-OBS.svg.png" alt="OBS" width="40" height="40"/> </a>
 <a href="https://resolume.com/" target="_blank" rel="noreferrer"> <img src="https://www.resolume.com/gfx/arena7icon.svg" alt="Resolume Arena" width="40" height="40"/> </a>
           
 <p align="center">
@@ -71,7 +69,6 @@
 </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="studio code" width="60" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="studio" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="IntelliJ" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="AndroidStudio" width="80" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1200px-Eclipse-SVG.svg.png" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://quicktype.io/" target="_blank" rel="noreferrer"> <img src="https://quicktype.io/images/logo-small-dark.svg" alt="quicktype" width="40" height="40"/> </a>
