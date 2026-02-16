@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning in my spare time **Rust and C#** 
 
-- 📫 How to reach me **eric.isensee@icloud.com**
+- 📫 How to reach me **contact@ericisensee.de**
           
 <br />
 <br />
