@@ -117,11 +117,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 ---
 
-### 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-*Setup WakaTime to see coding stats here — see instructions below.*
-<!--END_SECTION:waka-->
 
 ---
 
