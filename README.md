@@ -1,10 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Eric;Fullstack+Dev+%7C+Mobile+%7C+Cloud+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=40&lines=Hey+%F0%9F%91%8B%2C+I'm+Eric;Fullstack+Dev+%7C+Mobile+%7C+Cloud+%7C+DevOps)](https://git.io/typing-svg)
 
 <p>
 Building things across the entire stack — from mobile apps to Kubernetes clusters.<br/>
-Currently crafting green energy solutions at <a href="https://clever-pv.com"><b>clever-pv.com</b></a>
+Currently crafting green energy solutions at <a href="https://clever-pv.com"><b>clever-pv.com</b></a><br/>
+Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 </p>
 
 </div>
@@ -81,6 +82,7 @@ Currently crafting green energy solutions at <a href="https://clever-pv.com"><b>
 ### 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ericisensee.de-00D4AA?style=for-the-badge&logo=safari&logoColor=white)](https://ericisensee.de)
+[![Screenshots.live](https://img.shields.io/badge/Screenshots.live-FF6B6B?style=for-the-badge&logo=camera&logoColor=white)](https://screenshots.live)
 [![Email](https://img.shields.io/badge/Email-contact@ericisensee.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ericisensee.de)
 
 <br/>
