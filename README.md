@@ -72,7 +72,7 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/profile-night-rainbow.svg" />
 </div>
 
 
