@@ -58,8 +58,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 ---
 
-### 📊 GitHub Stats & Metrics
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-metrics.svg" />
 </div>
@@ -72,23 +70,17 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 ---
 
-### 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crovax124&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
-### 🧊 3D Contribution Calendar
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 ---
-
-### 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
   <picture>
@@ -99,8 +91,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 </div>
 
 ---
-
-### 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
