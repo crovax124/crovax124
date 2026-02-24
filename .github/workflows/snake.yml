@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake & 3D Calendar
 
 on:
   schedule:
@@ -9,16 +9,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: crovax124
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate 3D Contribution Calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: crovax124
+
+      - name: Move 3D files into dist
+        run: cp profile-3d-contrib/*.svg dist/
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
