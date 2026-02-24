@@ -58,25 +58,24 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crovax124&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-achievements.svg" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crovax124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crovax124&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-metrics.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crovax124&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=crovax124&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -113,17 +112,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-
----
-
-### 📉 GitHub Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-metrics.svg" />
 </div>
 
 ---
