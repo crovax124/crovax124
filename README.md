@@ -11,7 +11,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 </div>
 
----
 
 ### 🏷️ Whitelabel & Deployment
 
@@ -26,7 +25,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 </div>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -56,7 +54,6 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-metrics.svg" />
@@ -68,19 +65,16 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
   <img src="https://streak-stats.demolab.com/?user=crovax124&theme=tokyonight&hide_border=true" />
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crovax124&theme=tokyo-night&hide_border=true" />
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
----
 
 <div align="center">
   <picture>
@@ -90,13 +84,11 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
   </picture>
 </div>
 
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
 
 <div align="center">
 
