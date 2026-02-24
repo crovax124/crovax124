@@ -1,12 +1,28 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=40&lines=Hey+%F0%9F%91%8B%2C+I'm+Eric;Fullstack+Dev+%7C+Mobile+%7C+Cloud+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=40&lines=Hey+%F0%9F%91%8B%2C+I'm+Eric;Fullstack+Dev+%7C+Mobile+%7C+Cloud+%7C+DevOps;Whitelabel+Expert+%7C+Fastlane+Automation)](https://git.io/typing-svg)
 
 <p>
 Building things across the entire stack — from mobile apps to Kubernetes clusters.<br/>
+Specialized in <b>whitelabel app architectures</b> and <b>automated deployments with Fastlane</b>.<br/>
 Currently crafting green energy solutions at <a href="https://clever-pv.com"><b>clever-pv.com</b></a><br/>
 Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 </p>
+
+</div>
+
+---
+
+### 🏷️ Whitelabel & Deployment
+
+<div align="center">
+
+> *Shipping multiple branded apps from a single codebase — fully automated from commit to store.*
+
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -42,6 +58,14 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crovax124&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -65,6 +89,14 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 ---
 
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+---
+
 ### 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
@@ -73,6 +105,30 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crovax124/crovax124/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-snake-dark.svg" />
   </picture>
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+### 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+*Setup WakaTime to see coding stats here — see instructions below.*
+<!--END_SECTION:waka-->
+
+---
+
+### 📉 GitHub Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/crovax124/crovax124/output/github-metrics.svg" />
 </div>
 
 ---
