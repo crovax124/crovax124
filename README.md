@@ -16,7 +16,7 @@ Creator of <a href="https://screenshots.live"><b>screenshots.live</b></a>
 
 <div align="center">
 
-> *Shipping multiple branded apps from a single codebase — fully automated from commit to store.*
+*Shipping multiple branded apps from a single codebase — fully automated from commit to store.*
 
 [![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)](https://fastlane.tools)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developer.apple.com/app-store/)
