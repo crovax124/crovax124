@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=Hey+%F0%9F%91%8B%2C+I%27m+Eric;Fullstack+Dev+%7C+Mobile+%7C+Embedded+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Eric;Fullstack+Dev+%7C+Mobile+%7C+Cloud+%7C+DevOps)](https://git.io/typing-svg)
 
 <p>
-Building things across the entire stack — from ESP32 firmware to Kubernetes clusters.<br/>
+Building things across the entire stack — from mobile apps to Kubernetes clusters.<br/>
 Currently crafting green energy solutions at <a href="https://clever-pv.com"><b>clever-pv.com</b></a>
 </p>
 
@@ -20,7 +20,6 @@ Currently crafting green energy solutions at <a href="https://clever-pv.com"><b>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks & Mobile**
