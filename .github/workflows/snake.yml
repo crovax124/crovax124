@@ -25,7 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: crovax124
 
-- name: Move 3D files into dist
+      - name: Move 3D files into dist
         run: |
           mkdir -p dist
           cp -f profile-3d-contrib/*.svg dist/
