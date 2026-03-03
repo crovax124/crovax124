@@ -27,7 +27,7 @@ jobs:
 
       - name: Move 3D files into dist
         run: |
-          chmod -R u+w dist/ 2>/dev/null || true
+          sudo chown -R $(id -u):$(id -g) dist/
           cp profile-3d-contrib/*.svg dist/
 
       - name: Push to output branch
