@@ -27,8 +27,8 @@ jobs:
 
       - name: Move 3D files into dist
         run: |
-          mkdir -p dist
-          cp -f profile-3d-contrib/*.svg dist/
+          chmod -R u+w dist/ 2>/dev/null || true
+          cp profile-3d-contrib/*.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
